@@ -21,6 +21,12 @@ A simple **console-based C# application** that allows users to manage car rental
 
 ## 📂 Folder Structure
 
+- Data folder
+- Models
+- obj
+- Services
+- CarHireSystem
+
 
 ## 🛠️ Technologies Used
 
